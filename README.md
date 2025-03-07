@@ -15,10 +15,11 @@ You need Unity 2022.2.13f1 or newer to use this project. After downloading the p
 
 ## Usage
 
-To start the game, open the "Game" scene in the "Scene" folder in Unity Editor and click the "Play" button. While playing the game,
-In the game, we manage the platform, not the character, the incoming platform moves to the right and left, we tap to stop the platform at the position we want, we try to reach the finish by repeating this.
+To start the game, open the "MainScene" scene in the "Scene" folder in Unity Editor and click the "Play" button. While playing the game,
+In the game, you can control the vehicle using the 'WASD' keys and brake with the 'Space' key. If you find yourself stuck, you can reset the vehicle by pressing 'R'. Additionally, the game supports gamepads. If you prefer using a gamepad, the button layout is shown in the image.
 
-![movie_004_AdobeExpress (1)](https://github.com/brnokty/StackRun/assets/45638491/39ef38b7-f714-4435-960f-05363f5ee3ab)
+![GamePad](https://github.com/user-attachments/assets/db70ba8a-172a-4dad-9564-740a8f374b34)
+
 
 You can understand the game more easily by looking at the gif.
 
