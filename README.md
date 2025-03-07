@@ -26,13 +26,11 @@ Of course I took precautions in case the car turns upside down or various proble
 Some Gifs from gameplay;
 
 <img src="https://github.com/user-attachments/assets/c4e25219-5759-428e-985d-005ed2339b28" width="400" height="225">
+
 <img src="https://github.com/user-attachments/assets/c2ba645e-18ce-43aa-b2f4-a3cedcb41000" width="400" height="225">
+
 <img src="https://github.com/user-attachments/assets/4d232b80-3d86-4c22-9891-fd6bd468ccd7" width="400" height="225">
 
-
-![Gif_1](https://github.com/user-attachments/assets/c4e25219-5759-428e-985d-005ed2339b28)
-![Gif_2 (2)](https://github.com/user-attachments/assets/c2ba645e-18ce-43aa-b2f4-a3cedcb41000)
-![Gif_3](https://github.com/user-attachments/assets/4d232b80-3d86-4c22-9891-fd6bd468ccd7)
 
 You can understand the game more easily by looking at the gif.
 
